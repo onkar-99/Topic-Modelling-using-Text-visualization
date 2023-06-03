@@ -8,7 +8,7 @@ The Text Analysis Visualizer is a Python project aimed at enhancing text analysi
 4. Interpret complex text data and uncover word associations.
 
 ### Usuage
-1. Clone the repository: git clone https://github.com/your-username/text-analysis-visualizer.git
+1. Clone the repository: git clone [https://github.com/onkar-99/Topic-Modelling-using-Text-visualization](https://github.com/onkar-99/Topic-Modelling-using-Text-visualization)
 2. Navigate to the project directory: cd text-analysis-visualizer
 3. Install the Graphviz software from the link mentioned in the IVTopicModelling.ipynb
 4. Change this path as per your system path and add it to the environment PATH variables.  "C:\Program Files\Graphviz\bin"
